@@ -5,8 +5,9 @@ A Schulte Table App written with [React](https://react.dev/) and [TypeScript](ht
   
 ## Try it on [my website](https://berkyeni.com/schulteproject/)
 Features multiple game modes, score tracking, responsive design and light/dark themes. Play on anything!  
-
-
+  
+[![Screenshot of Schulte Table](public/schulte_screenshot.webp)](https://berkyeni.com/schulteproject/)
+  
 ## Run locally
 You need [Node](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to run this project locally.  
 
