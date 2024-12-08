@@ -19,7 +19,7 @@ const PersonalInfo: FC<PersonalInfoProps> = (props) => {
         </div>
       </a>
 
-      <a href="https://github.com/BerkYeni/schulteproject" className="infoLink" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/BerkYeni/schultetable" className="infoLink" target="_blank" rel="noopener noreferrer">
         <div className="siteLinkInner">
           <span className="linkContent">See the source code</span><img className="siteMark" src={githubMark} alt="GitHub Mark" />
         </div>
