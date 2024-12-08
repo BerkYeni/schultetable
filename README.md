@@ -4,7 +4,7 @@ A Schulte Table App written with [React](https://react.dev/) and [TypeScript](ht
 [![My Skills](https://skillicons.dev/icons?i=react,ts)](https://skillicons.dev)  
   
 ## Try it on [my website](https://berkyeni.com/schulteproject/)
-Features multiple game modes, score tracking and responsive design. Play on anything!  
+Features multiple game modes, score tracking, responsive design and light/dark themes. Play on anything!  
 
 
 ## Run locally
