@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/schultetable/static/css/main.a941f30b.css",
+    "main.js": "/schultetable/static/js/main.b4ecc787.js",
+    "static/js/787.402124f3.chunk.js": "/schultetable/static/js/787.402124f3.chunk.js",
+    "static/media/berkyeni-mark.png": "/schultetable/static/media/berkyeni-mark.f8dffbf07b5088eaad7b.png",
+    "static/media/stopSign.png": "/schultetable/static/media/stopSign.2dab7322d8cf98b6817c.png",
+    "index.html": "/schultetable/index.html",
+    "main.a941f30b.css.map": "/schultetable/static/css/main.a941f30b.css.map",
+    "main.b4ecc787.js.map": "/schultetable/static/js/main.b4ecc787.js.map",
+    "787.402124f3.chunk.js.map": "/schultetable/static/js/787.402124f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a941f30b.css",
+    "static/js/main.b4ecc787.js"
+  ]
+}
